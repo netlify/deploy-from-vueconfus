@@ -2,11 +2,10 @@
   <section class="container">
     <div>
       <app-logo/>
-      <h1 class="title">
-        deploy-from-vue-conf
-      </h1>
       <h2 class="subtitle">
-        a project to deploy vue
+        Congratulations on deploying a <a href="https://nuxtjs.org/">Nuxt</a>
+                                          site on <a
+          href="https://www.netlify.com/">Netlify</a>
       </h2>
       <div class="links">
         <a
